@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Vito.png">
+<SubTexture name="Vito Down0000" x="8922" y="5944" width="1383" height="1942" frameX="-526" frameY="-169" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Down0001" x="8922" y="3971" width="1419" height="1973" frameX="-526" frameY="-138" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Down0002" x="8922" y="1989" width="1445" height="1982" frameX="-526" frameY="-129" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Down0003" x="8922" y="0" width="1457" height="1989" frameX="-524" frameY="-122" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Down0004" x="0" y="0" width="1484" height="2016" frameX="-520" frameY="-95" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0000" x="2906" y="2016" width="1498" height="2013" frameX="-520" frameY="-98" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0001" x="7424" y="0" width="1498" height="2009" frameX="-528" frameY="-102" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0002" x="2937" y="6042" width="1498" height="2003" frameX="-536" frameY="-108" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0003" x="5876" y="6042" width="1498" height="1999" frameX="-542" frameY="-112" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0004" x="2937" y="6042" width="1498" height="2003" frameX="-536" frameY="-108" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0005" x="7424" y="0" width="1498" height="2009" frameX="-528" frameY="-102" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0006" x="4437" y="0" width="1498" height="2013" frameX="-520" frameY="-98" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0007" x="7424" y="2009" width="1498" height="2009" frameX="-516" frameY="-102" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0008" x="0" y="6042" width="1498" height="2005" frameX="-512" frameY="-106" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0009" x="7374" y="6042" width="1498" height="1995" frameX="-508" frameY="-116" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0010" x="0" y="6042" width="1498" height="2005" frameX="-512" frameY="-106" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Idle0011" x="7424" y="2009" width="1498" height="2009" frameX="-516" frameY="-102" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Left0000" x="0" y="2016" width="1445" height="2014" frameX="-520" frameY="-97" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Left0001" x="1445" y="2016" width="1461" height="2014" frameX="-520" frameY="-97" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Left0002" x="1484" y="0" width="1473" height="2015" frameX="-520" frameY="-96" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Left0003" x="2957" y="0" width="1480" height="2015" frameX="-520" frameY="-96" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Left0004" x="4437" y="2013" width="1489" height="2013" frameX="-520" frameY="-98" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Right0000" x="4458" y="4030" width="1472" height="2010" frameX="-520" frameY="-101" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Right0001" x="2978" y="4030" width="1480" height="2011" frameX="-520" frameY="-100" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Right0002" x="5935" y="2013" width="1485" height="2012" frameX="-520" frameY="-99" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Right0003" x="0" y="4030" width="1491" height="2012" frameX="-520" frameY="-99" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Right0004" x="5935" y="0" width="1489" height="2013" frameX="-520" frameY="-98" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Up0000" x="4435" y="6042" width="1441" height="2003" frameX="-520" frameY="-108" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Up0001" x="1498" y="6042" width="1439" height="2004" frameX="-520" frameY="-107" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Up0002" x="5930" y="4030" width="1455" height="2008" frameX="-520" frameY="-103" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Up0003" x="7424" y="4018" width="1469" height="2009" frameX="-520" frameY="-102" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Vito Up0004" x="1491" y="4030" width="1487" height="2012" frameX="-520" frameY="-99" frameWidth="3840" frameHeight="2480" />
+</TextureAtlas>

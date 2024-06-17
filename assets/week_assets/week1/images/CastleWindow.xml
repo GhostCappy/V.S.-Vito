@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CastleWindow.png">
+<SubTexture name="Lightning0000" x="0" y="0" width="2667" height="570" frameX="-449" frameY="-520" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Lightning0001" x="0" y="570" width="2667" height="570" frameX="-449" frameY="-520" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Lightning0002" x="0" y="1140" width="2667" height="570" frameX="-449" frameY="-520" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Lightning0003" x="0" y="1710" width="2667" height="570" frameX="-449" frameY="-520" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Lightning0004" x="2667" y="0" width="2667" height="570" frameX="-449" frameY="-520" frameWidth="3840" frameHeight="2480" />
+<SubTexture name="Lightning0005" x="2667" y="570" width="2667" height="570" frameX="-449" frameY="-520" frameWidth="3840" frameHeight="2480" />
+</TextureAtlas>

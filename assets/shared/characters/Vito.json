@@ -1,0 +1,147 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1504,
+				740
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "idle",
+			"indices": [],
+			"name": "Vito Idle"
+		},
+		{
+			"offsets": [
+				1504,
+				740
+			],
+			"loop": true,
+			"fps": 12,
+			"anim": "idle-loop",
+			"indices": [],
+			"name": "Vito Idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1507,
+				740
+			],
+			"anim": "singLEFT",
+			"fps": 36,
+			"name": "Vito Left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1504,
+				740
+			],
+			"anim": "singDOWN",
+			"fps": 36,
+			"name": "Vito Down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1501,
+				740
+			],
+			"anim": "singRIGHT",
+			"fps": 36,
+			"name": "Vito Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1504,
+				740
+			],
+			"anim": "singUP",
+			"fps": 36,
+			"name": "Vito Up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1507,
+				740
+			],
+			"anim": "singLEFT-loop",
+			"fps": 36,
+			"name": "Vito Left",
+			"indices": [
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1501,
+				740
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 36,
+			"name": "Vito Right",
+			"indices": [
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1504,
+				740
+			],
+			"anim": "singDOWN-loop",
+			"fps": 36,
+			"name": "Vito Down",
+			"indices": [
+				4,
+				5
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				1504,
+				740
+			],
+			"anim": "singUP-loop",
+			"fps": 36,
+			"name": "Vito UP",
+			"indices": [
+				4,
+				5
+			]
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/Vito",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "vito",
+	"flip_x": false,
+	"healthbar_colors": [
+		115,
+		122,
+		166
+	],
+	"camera_position": [
+		-250,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 0.3,
+	"_editor_isPlayer": false
+}

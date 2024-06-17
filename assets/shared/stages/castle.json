@@ -1,0 +1,14 @@
+{
+	"directory": "week1",
+	"defaultZoom": 0.65,
+	"isPixelStage": false,
+
+	"boyfriend": [1240, 190],
+	"girlfriend": [470, 200],
+	"opponent": [10, 190],
+
+	"camera_boyfriend": [-100, -20],
+	"camera_opponent": [200, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}
